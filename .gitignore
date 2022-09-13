@@ -1,0 +1,12 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.directory
+
+# never commit the node_modules folder
+**/node_modules
+**/*.gz
